@@ -13,7 +13,9 @@
 
 }
 /* sheared style */
-
+h3{
+    color: #c1590e;
+}
 /* header section */
 header{
     margin: 70px 100px;
